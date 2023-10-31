@@ -1,2 +1,9 @@
 Q.3:-Explain the use of grid-auto-row and grid-auto-column using code examples.
 Ans:-The grid-auto-row and grid-auto-column properties specify the default size of grid rows and columns, respectively. They can be used to create grids with a consistent size for all rows or columns, or to create grids that automatically adjust to the size of their content
+
+Q.5:-Explain the difference between justify-items and justify-self
+Ans:-
+justify-items and justify-self are two CSS grid properties that control the alignment of grid items along the row axis. However, there is a key difference between the two properties:
+
+justify-items aligns the content inside all grid items within their grid cells.
+justify-self aligns the content inside a specific grid item within its grid cell.
